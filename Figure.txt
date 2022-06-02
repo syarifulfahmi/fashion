@@ -1,0 +1,255 @@
+<html>
+
+<html>
+<head>
+
+<title>Irashimase Anime</title>
+
+<style type="text/css">
+
+header, section, footer, aside, nav, article, figure, figcaption {
+display: block;}
+
+body {
+color: #000000 ;
+ background-color: #F94866 ; background-image: url("chuukarudoruhu_hatsune_miku_vocaloid_field_tulips_99979_3840x2400.jpg");
+
+background-position: center ;
+ font-family: Bradley Hand ITC, Times, serif ;
+ line-height: 1.4em;
+ margin: 0px ;}
+.wrapper {
+width: 940px ;
+ margin: 20px auto 20px auto ;
+ border: 2px solid #209AD2;
+ background-color: #FFFFFF ;}
+header {
+height: 50 % ; width:100% ;
+ background-image: url(anime-wallpapers-girl-girls.jpg) ;}
+
+	h1 {
+text-indent: -9999px ;
+ width: 100% ; 
+height: 50% ; 
+margin: 0px ;}
+
+		nav, footer {
+clear: both ; 
+color: #20B672 ; 
+background-color: #209AD2 ;
+ height: 30px ;}
+
+			nav ul {
+margin: 0px ;
+ padding: 5px 0px 5px 30px ;}
+
+			nav li {
+display: inline ; 
+margin-right: 40px ;}
+
+			nav li a {
+color: #FFFFFF ;}
+
+			nav li a:hover, nav li a.current {
+color: #F5E517 ;}
+
+		section.courses {
+float: left ; 
+width: 659px ; 
+border-right: 1px solid #EEEEEE ;}
+
+			article {
+clear: both ;
+ overflow: auto ;
+ width: 100% ;}
+
+			hgroup {
+margin-top: 40px ;}
+
+		figure {
+float: left ; 
+width: 290px ;
+ height: 220px ;
+ padding: 5px ; 
+margin: 20px ; 
+border: 1px solid #000000 ;}
+
+		figcaption {
+font-size: 90% ;
+ text-align: left ;}
+
+			aside {
+width: 230px ; 
+float: left ;
+ padding: 0px 0px 0px 20px ;}
+
+			aside section a {
+display: block ; 
+padding: 10px ; 
+border-bottom: 1px solid #0099FF ;}
+
+			aside section a:hover {
+color: #000000 ;
+ background-color: #FFFFFF ;}
+
+			a {
+color: #DE6581 ; 
+text-decoration: none ;}
+
+			h1, h2, h3 {
+font-weight: normal ;}
+
+			h2 {
+margin: 10px 0px 5px 0px;
+ padding: 0px ;}
+
+			h3 {
+margin: 0px 0px 10px 0px;
+ color: #DE6581 ;}
+
+			aside h2 {
+padding: 30px 0px 10px 0px ; 
+color: #DE6581 ;}
+
+			footer {
+font-size: 80% ;
+ padding: 7px 0px 0px 20px ;}
+
+</style>
+
+</head>
+
+<body>
+		
+<div class="wrapper">
+<header>
+
+<h1>OTaku</h1>
+	
+<nav>
+		
+<ul>
+
+<li><a href="home.html" class="current">Home</a></li>
+
+<li><a href="List.html">List</a></li>
+
+<li><a href="Uniform.html">Uniform</a></li>
+
+<li><a href="Figure.html">Figure</a></li>
+
+<li><a href="Cosplay.html">Dress Cosplay</a></li>
+	
+</ul>
+
+</nav>
+
+</header>
+
+<section class="courses">
+
+<article>
+
+<figure>
+
+<img src="768b4c767e90e96698b91f3b3b96ce0a.jpg" width="290 px" 
+height="200 px" alt="Figure" />
+
+<figcaption>Shigatsu wa Kimi no Uso</figcaption>
+
+</figure>
+
+<hgroup>
+
+<h2>Kaori Miyazono</h2>
+
+<h3>Figure</h3>
+
+</hgroup>
+
+<p>Shigatsu wa Kimi no Uso adalah serial manga Jepang yang ditulis dan diilustrasikan oleh Naoshi Arakawa.
+ Diadaptasi oleh A-1 Pictures sebagai serial anime televisi yang disiarkan pada Oktober 2014 - Maret 2015 di Fuji TV.</p>
+
+</article>
+<article>
+
+<figure>
+
+<img src="ce6b3239b01222ac7bd3bd195dbabaf3.jpg" width="290 px" 
+height="200 px" alt="Figure" />
+
+<figcaption>Nisekoi</figcaption>
+
+</figure>
+
+<hgroup>
+
+<h2>Chitoge Kirisaki</h2>
+
+<h3>Figure</h3>
+
+</hgroup>
+
+<p>Nisekoi adalah sebuah serial manga Jepang karya Naoshi Komi, yang mengisahkan tentang Raku Ichijo, seorang putra 
+pemimpin yakuza, yang terpaksa harus berpacaran dengan putri pemimpin gangster untuk menghindari perang geng.</p>
+
+</article>
+<article>
+
+<figure>
+
+<img src="8da4cfac9b1a950477314ea685bff84d.jpg" width="290 px" 
+height="200 px" alt="Figure" />
+
+<figcaption>K-On</figcaption>
+
+</figure>
+
+<hgroup>
+
+<h2>Mio Akiyama</h2>
+
+<h3>Figure</h3>
+
+</hgroup>
+
+<p>K-On! (????! Keion!?) adalah strip komik empat panel yang ditulis dan diilustrasikan oleh Kakifly.
+ Manga ini dimuat bersambung di majalah Manga Time Kirara edisi Mei 2007 hingga Oktober 2010, dan
+ Manga Time Kirara Carat, keduanya terbitan Houbunsha. </p>
+
+</article>
+</section>
+<aside>
+
+<section class="popular-recipes">
+
+<h2>Populer</h2>
+
+<a href="Figure.html">Figure</a>
+
+<a href="Uniform.html">Uniform</a>
+
+<a href="Cosplay.html">Dress Cosplay</a>
+
+</section>
+
+<section class="contact-details">
+
+<h2>From</h2>
+
+<p>Yumna Ayu Putri Dewi
+<br/>Tugas Desains Web
+<img src="tugas prak 21.gif" width="244 px" height="350 px">
+</section>
+
+</aside>
+
+<footer><img src="conan-5_assidotu.gif" width="300 px" 
+height="85 px"> <img src="39.gif" width="300 px" 
+height="85 px"> 
+</footer>
+
+</div>
+</body>
+
+</html>
